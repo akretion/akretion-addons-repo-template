@@ -8,7 +8,7 @@ repositories.
 To apply it to an existing repository, run this in the repository root:
 
 ```console
-$ copier git+https://github.com/shopinvader/shopinvader-addons-repo-template .
+$ copier git+https://github.com/akretion/akretion-addons-repo-template .
 ```
 
 Answer questions, review changes, run `pre-commit run -a`, then commit changes.
