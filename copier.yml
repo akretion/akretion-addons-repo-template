@@ -40,7 +40,7 @@ generate_requirements_txt:
     files.
 
 black_version:
-  default: 19.10b0
+  default: 20.8b1
   type: str
 
 python_line_length:
