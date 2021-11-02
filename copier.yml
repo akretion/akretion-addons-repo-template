@@ -53,7 +53,7 @@ rebel_module_groups:
     Example: ["rebel_module_1,rebel_module_2", even_more_rebel_module]
 
 black_version:
-  default: 19.10b0
+  default: 20.8b1
   type: str
 
 python_line_length:
