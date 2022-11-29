@@ -1,4 +1,10 @@
-# Shopinvader addons repo template
+# DEPRECATED
+
+We should not use the repo https://github.com/akretion/akretion-addons-repo-template
+As now the official OCA repo https://github.com/OCA/oca-addons-repo-template is compatible for any organisation
+
+
+# Akretion addons repo template
 
 A [copier](https://pypi.org/project/copier/) template for Shopinvader addons
 repositories.
